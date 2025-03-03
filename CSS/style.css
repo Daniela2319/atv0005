@@ -1,0 +1,29 @@
+main {
+  width: 80%; 
+  margin: 40px auto; 
+  padding: 20px; 
+  border: 2px solid #ccc; 
+  border-radius: 10px; 
+  text-align: center; 
+}
+
+
+main h1 {
+  margin: 20px 0; /* Margem superior e inferior */
+  font-size: 24px;
+  color: #333;
+}
+
+/* Estilização da linha horizontal */
+main hr {
+  border: none;
+  height: 3px;
+  background-color: #007bff; 
+  margin: 20px 0;
+}
+
+/* Estilização do parágrafo */
+main p {
+  font-size: 16px;
+  color: #666;
+}
