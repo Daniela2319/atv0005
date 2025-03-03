@@ -1,0 +1,9 @@
+/* reset de css */
+html, body, header, main, footer, h1, p, div{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100;
+  font: inherit;
+  vertical-align: baseline;
+}
