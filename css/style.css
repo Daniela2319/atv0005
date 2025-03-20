@@ -3,8 +3,8 @@ body{
 }
 
 header, main, footer{
-  margin: 10px;
-  padding: 10px;
+  margin: 0.5%;
+  padding: 1%;
   
 }
 
@@ -16,19 +16,19 @@ header{
 }
 main{
   background: #fff;
+ 
 }
 footer{
   background: #ccc;
   text-align: center;
   position: absolute;
-  width: 100%;
+  width: 97%;
   bottom: 0;
 }
 
 header #logo img{
   width: 100px;
   border-radius: 5px;
-
 }
 
 header nav ul{
@@ -43,11 +43,8 @@ header nav ul li a{
   padding: 4px 5px;
   border: 1px solid #000;
   border-radius: 5px;
-}
-header nav ul li a{
   text-decoration: none;
   color: #000;
- 
 }
 
 header nav ul li a:hover{
